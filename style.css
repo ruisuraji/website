@@ -189,6 +189,20 @@ nav ul li a:hover::after{
     background:#ff004f;
     transform:translateY(-10px);
 }
+.services-list span{
+    color: #7d85f5;
+    background-color:#262626
+}
+
+.services-list h2{
+    font-style:oblique;
+ 
+    
+}
+
+.services-list sub-title {
+    font-size: x-large;
+}
 
 /*----------portfolio-----------*/
 #portfolio{
